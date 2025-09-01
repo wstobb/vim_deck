@@ -1,5 +1,5 @@
 # vim\_deck
 ## Materials
 - GMMK Compact
-- RPI 5
+- Lenovo Ideapad 1
 - 7 inch Screen
